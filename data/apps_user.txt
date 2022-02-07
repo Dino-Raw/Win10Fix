@@ -1,0 +1,226 @@
+﻿
+
+Name : Microsoft.VCLibs.140.00
+
+Name : Microsoft.NET.Native.Runtime.2.2
+
+Name : Microsoft.VCLibs.140.00
+
+Name : Microsoft.NET.Native.Framework.2.2
+
+Name : windows.immersivecontrolpanel
+
+Name : Microsoft.NET.Native.Runtime.1.6
+
+Name : Microsoft.NET.Native.Runtime.1.6
+
+Name : Microsoft.NET.Native.Runtime.2.2
+
+Name : SynapticsIncorporated.SynMsiDApp
+
+Name : Microsoft.UI.Xaml.2.0
+
+Name : Microsoft.UI.Xaml.2.0
+
+Name : Microsoft.UI.Xaml.2.3
+
+Name : Microsoft.UI.Xaml.2.3
+
+Name : Microsoft.NET.Native.Framework.1.7
+
+Name : Microsoft.NET.Native.Framework.1.7
+
+Name : Microsoft.UI.Xaml.2.4
+
+Name : Microsoft.NET.Native.Runtime.1.7
+
+Name : Microsoft.UI.Xaml.2.4
+
+Name : Microsoft.NET.Native.Runtime.1.7
+
+Name : Microsoft.UI.Xaml.2.1
+
+Name : Microsoft.UI.Xaml.2.1
+
+Name : Microsoft.NET.Native.Framework.1.6
+
+Name : Microsoft.NET.Native.Framework.1.6
+
+Name : Microsoft.Advertising.Xaml
+
+Name : Microsoft.Advertising.Xaml
+
+Name : Microsoft.Services.Store.Engagement
+
+Name : Microsoft.Services.Store.Engagement
+
+Name : Microsoft.NET.Native.Framework.2.2
+
+Name : Microsoft.UI.Xaml.2.5
+
+Name : Microsoft.UI.Xaml.2.5
+
+Name : Windows.PrintDialog
+
+Name : Microsoft.LanguageExperiencePacken-US
+
+Name : PythonSoftwareFoundation.Python.3.8
+
+Name : Microsoft.MSPaint
+
+Name : Microsoft.BioEnrollment
+
+Name : Microsoft.AAD.BrokerPlugin
+
+Name : Microsoft.Windows.OOBENetworkConnectionFlow
+
+Name : Microsoft.Windows.OOBENetworkCaptivePortal
+
+Name : MicrosoftWindows.UndockedDevKit
+
+Name : Microsoft.Windows.StartMenuExperienceHost
+
+Name : Microsoft.Windows.ContentDeliveryManager
+
+Name : Windows.CBSPreview
+
+Name : NcsiUwpApp
+
+Name : Microsoft.XboxGameCallableUI
+
+Name : Microsoft.Windows.XGpuEjectDialog
+
+Name : Microsoft.Windows.SecHealthUI
+
+Name : Microsoft.Windows.PinningConfirmationDialog
+
+Name : Microsoft.Windows.PeopleExperienceHost
+
+Name : Microsoft.Windows.ParentalControls
+
+Name : Microsoft.Windows.NarratorQuickStart
+
+Name : Microsoft.Windows.CapturePicker
+
+Name : Microsoft.Windows.CallingShellApp
+
+Name : Microsoft.Windows.Apprep.ChxApp
+
+Name : Microsoft.Win32WebViewHost
+
+Name : Microsoft.MicrosoftEdgeDevToolsClient
+
+Name : Microsoft.LockApp
+
+Name : Microsoft.ECApp
+
+Name : Microsoft.CredDialogHost
+
+Name : Microsoft.AsyncTextService
+
+Name : Microsoft.AccountsControl
+
+Name : F46D4000-FD22-4DB4-AC8E-4E1DDDE828FE
+
+Name : E2A4F912-2574-4A75-9BB0-0D023378592B
+
+Name : 1527c705-839a-4832-9118-54d4Bd6a0c89
+
+Name : Microsoft.VCLibs.140.00
+
+Name : Microsoft.VCLibs.140.00
+
+Name : Microsoft.PPIProjection
+
+Name : Microsoft.WebpImageExtension
+
+Name : Microsoft.NET.Native.Runtime.2.1
+
+Name : Microsoft.NET.Native.Runtime.2.1
+
+Name : Microsoft.NET.Native.Framework.2.1
+
+Name : Microsoft.NET.Native.Framework.2.1
+
+Name : Microsoft.Windows.CloudExperienceHost
+
+Name : Microsoft.MicrosoftEdge
+
+Name : Microsoft.StorePurchaseApp
+
+Name : Microsoft.UI.Xaml.2.7
+
+Name : Microsoft.UI.Xaml.2.7
+
+Name : Microsoft.Windows.ShellExperienceHost
+
+Name : Microsoft.VCLibs.140.00
+
+Name : Microsoft.VCLibs.140.00
+
+Name : Microsoft.VCLibs.140.00.UWPDesktop
+
+Name : Microsoft.VCLibs.140.00.UWPDesktop
+
+Name : Microsoft.UI.Xaml.2.6
+
+Name : Microsoft.UI.Xaml.2.6
+
+Name : Microsoft.VP9VideoExtensions
+
+Name : Microsoft.WindowsStore
+
+Name : Microsoft.HEIFImageExtension
+
+Name : 40210ChrisAndriessen.FalconX
+
+Name : Microsoft.WindowsSoundRecorder
+
+Name : Microsoft.WebMediaExtensions
+
+Name : AppUp.IntelGraphicsExperience
+
+Name : Microsoft.ZuneMusic
+
+Name : Microsoft.WindowsCamera
+
+Name : Microsoft.ZuneVideo
+
+Name : Microsoft.MicrosoftOfficeHub
+
+Name : Microsoft.MicrosoftStickyNotes
+
+Name : Microsoft.DesktopAppInstaller
+
+Name : Microsoft.ScreenSketch
+
+Name : Microsoft.WindowsCalculator
+
+Name : 40459File-New-Project.EarTrumpet
+
+Name : Microsoft.Windows.Photos
+
+Name : Microsoft.549981C3F5F10
+
+Name : Microsoft.LanguageExperiencePackru-RU
+
+Name : NVIDIACorp.NVIDIAControlPanel
+
+Name : PythonSoftwareFoundation.Python.3.9
+
+Name : Microsoft.Windows.Search
+
+Name : MicrosoftWindows.Client.CBS
+
+Name : c5e2524a-ea46-4f67-841f-6a9465d9d515
+
+Name : 49306atecsolution.FilesUWP
+
+Name : Microsoft.MicrosoftEdge.Stable
+
+Name : TelegramMessengerLLP.TelegramDesktop
+
+Name : 5319275A.WhatsAppDesktop
+
+
+
